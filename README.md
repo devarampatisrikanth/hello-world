@@ -1,3 +1,1 @@
 # hello-world
-
-find all
